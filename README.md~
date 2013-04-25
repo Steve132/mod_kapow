@@ -3,20 +3,7 @@ mod_kapow
 
 Anti-ddos apache module
 
-This is the GPLed source code written by Ed Kaiser Wu-chang Feng
-
-corresponding to the paper also authored by them, titled 
-
-"mod kaPoW: Protecting the Web with TransparentProof-of-Work"
-
-published in Global Internet 08.
-
-http://www.thefengs.com/wuchang/work/puzzles/globalinternet08_kapow.pdf
-
-
-They gave me permission to release the source code under the GNU GPL (see the accompanying pdf email)
-
-
+This is the GPLed source code corresponding to the paper 
 
 INSTALLATION NOTES:
 

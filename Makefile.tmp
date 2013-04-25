@@ -1,0 +1,8 @@
+all: mod_kapow
+
+mod_kapow: configuration.c  issuer.c  mod_kaPoW.c  verifier.c
+	apxs -i -a -c mod_kaPoW.c configuration.c issuer.c verifier.c
+
+clean:
+	\rm -f *.la *.lo *.o *.slo
+
